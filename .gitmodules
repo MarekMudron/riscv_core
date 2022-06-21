@@ -5,3 +5,4 @@
 [submodule "ELFIO"]
 	path = ELFIO
 	url = https://github.com/serge1/ELFIO
+	ignore = dirty
