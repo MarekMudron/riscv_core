@@ -2,3 +2,6 @@
 	path = riscv-tests
 	url = git@github.com:riscv-software-src/riscv-tests.git
 	ignore = dirty
+[submodule "ELFIO"]
+	path = ELFIO
+	url = https://github.com/serge1/ELFIO
